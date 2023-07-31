@@ -1,0 +1,164 @@
+__AHU Calculation file__
+Please Choose  AHU Excel Book
+Please check input system data columns
+Pivot AHU Table
+Show Table
+Check data for group table plotting
+Group Table input data
+Pivot Table input data
+select agg function
+__Input data show__.
+Session Load
+__Session Config__
+Show Session
+Clear Session
+no loaded file json polygons
+:heavy_plus_sign: Description Data
+ADD to buffer
+cleare buffer state
+Max Data
+Sum Data
+Standard Data
+Check Pivot Table Data
++
+Create Category View
+Select Tables for download
+Choose Columns Keys
+Choose Columns Values
+🔃 You can reload a new file 
+:heavy_plus_sign:
+Dictionary of attributes (first element):
+all applicable psets/qtos names for a certain class :
+location:
+location Name:
+IFC Types
+Create Table DB
+No Quantities to Look at !
+new_wall.ifc
+Select Class
+Select Quantity Set
+Select Quantity
+Inspect From Id
+Inspect from Model
+Get Object
+Edit Object
+selected items:
+🔗
+Select Excel Sheet
+Select Db Views
+select sheet data
+Check is all selected excel sheets  exist?
+add data to column
+update view
+Create System
+System Type Name
+System Flow Column
+System Name Column
+system
+Plotly JPG Files Download
+Show Network
+Network Table
+Draft polte
+Pressure polte
+Network config
+from to connection
+choose system type
+choose flow column
+choose level
+ALL Plot
+clear selected
+update layout
+select color id column name for clicked select
+Select Space Data
+Select Plot Level
+Hide/Show Input Data
+Create Plot
+System Name
+System Flow
+Start distance
+Select color
+Vertical Direction
+Horizontal Direction
+Hide/Show Equipment Symbols
+please set system columns and  flow and level columns 
+select color filter column
+Select ID column
+select space input data column
+select system columns
+select flow columns
+Save Session?
+Load Session?
+Load Statement Model
+**WARNING**: Select the Settings File to be uploaded
+Please choose filtered data in table
+SQL Tolls
+All Tables and Views
+Selected Table
+select column for checking
+Language mode
+Theme
+Keybinding mode
+Create View DB
+Copy DB to Clipboard
+Existing Columns Names
+update table
+create column
+Delete column
+Column type
+select updated column name
+select id column
+select deleted column name
+Input Space Data
+Table Data
+Select Columns
+Show Input Table
+Show Options
+SQL Function
+SQL Filter
+Show SQL Query
+Create SQL Views
+Check SQL
+Select Category Type
+Select Excel Book and Sheet
+Selected Excel Sheet
+Show Tables
+Add Table to DB
+Multiply Column
+Select columns for Multiply
+Sum Column
+Select columns for Sum
+Select Data for joined table
+Selected Sheets
+Join Table
+Select Data for Group table
+Select Data for Add Total Row Table
+Add To Session
+Add table to DB?
+ALL Created Sheets in Session
+Grouped Table
+Select Excel Book
+Select ID column1
+Select ID column2
+Select Join type
+Select Grouped Column
+Select Aggregation Column
+Select Multiply  Columns
+Select Sum Columns
+Select group by columns
+Select agg  columns
+Select agg  function
+Select Main Column
+Config Table
+Create Grouped Table
+Add data to DB
+Create Table
+Joined Tabel
+Balance Data Base Table
+Select Joined Column
+Select Total Sum Column
+Select Balance Type
+Select default columns in space data table
+Update Data?
+Show DB data
+DB Tables
+DB Views
